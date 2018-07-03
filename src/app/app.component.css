@@ -1,0 +1,19 @@
+#green{
+    background-color:green;
+    color:white;
+    margin:5px;
+
+}
+#red{
+    background-color:red;
+    color:white;
+}
+main{
+    height:50%;
+    width:50%;
+    border:3px solid black;
+    border-radius: 50px;
+    text-align:center;
+    margin:auto;
+    padding:10px;
+}
